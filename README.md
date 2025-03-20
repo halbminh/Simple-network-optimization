@@ -1,4 +1,5 @@
 # Simple-network-optimization
+
 Optimization Sample Questions
 This section contains a sample optimization problem titled "Hansen Controls 1." The problem involves Hansen Controls, a company that has been awarded a contract to produce a large number of control panels. To meet this demand, the company will utilize its existing manufacturing plants located in San Diego and Houston, while also considering the establishment of new plants in Tulsa, St. Louis, and Portland. The finished control panels are to be shipped to three destinations: Seattle, Denver, and Kansas City.
 
